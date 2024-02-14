@@ -1,6 +1,11 @@
+import MenuTop from "../../Components/homePage-top"
+
+
 const HomePage = () => {
     return <>
-        <div className="home">Home</div>
+        <div className="home">
+            <MenuTop/>
+        </div>
     </>
 } 
 
