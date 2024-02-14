@@ -1,0 +1,22 @@
+.search {
+    max-width: 730px;
+    min-width: 730px;
+    opacity: 0.3;
+    background: #ebebeb;
+    padding: 12px 23px;
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    width: 100%;
+    background: #ebebeb;
+    border: none;
+    outline: none;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

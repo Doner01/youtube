@@ -1,0 +1,19 @@
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    margin-bottom: 60px;
+}
+
+.menu {
+    &__bar {
+        display: flex;
+        flex-direction: column;
+        gap: 28px;
+    }
+    &__link {
+        display: flex;
+        align-items: center;
+        gap: 13px;
+    }
+}

@@ -1,0 +1,12 @@
+.app {
+    display: flex;
+    width: 100%;
+    padding: 20px 32px;
+    &__menu {
+        max-width: 240px;
+        min-width: 240px;
+    }
+    &__all {
+        width: 100%;
+    }
+}
